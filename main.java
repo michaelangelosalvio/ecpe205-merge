@@ -1,4 +1,4 @@
-/**
+/** Khycy Janz Alvarez
  * main
  */
 public class main {
